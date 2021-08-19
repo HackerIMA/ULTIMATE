@@ -18,3 +18,7 @@ pip2 install mechanize
 pip install requests
 
 pip install mechanize
+
+cd HackerIMA
+
+python2 HackerIMA.py
